@@ -6,3 +6,4 @@ app/database.db
 app/build
 yarn.lock
 yarn-error.log
+*.psd
